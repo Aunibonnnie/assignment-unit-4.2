@@ -1,4 +1,25 @@
+.info {
+    border: 1px solid yellow;
+    background-color: whitesmoke;
+    margin: 50px;
+    width: 650px
+}
+
 header {
     background-color: blueviolet;
-    height:100px;
+    height:auto;
+    padding: 10px
+}
+
+#Name {
+    background-color: blue;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+h3 {
+    background-color: aqua;
+    Color: blue;
+    padding: 10px;
+    text-align: center;
 }
